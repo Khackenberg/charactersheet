@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+}
+
+.tile{
+  
+  display: inline-block;
+  background-color: black;
+  width: 20vw;
+  height: 20vw;
+}
+.random{
+  
+  display: inline-block;
+  background-color: green;
+  width: 20vw;
+  height: 20vw;
+}
+ 
